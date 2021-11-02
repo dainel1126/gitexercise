@@ -1,0 +1,23 @@
+{
+  "name": "daniel",
+  "version": "1.0.0",
+  "description": "練習",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dainel1126/gitexercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dainel1126/gitexercise/issues"
+  },
+  "homepage": "https://github.com/dainel1126/gitexercise#readme",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.1.3"
+  }
+}
